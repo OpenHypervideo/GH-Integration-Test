@@ -1,0 +1,1630 @@
+[
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Sitzungser\u00f6ffnung",
+            "officialTitle": "Sitzungser\u00f6ffnung",
+            "speechIndex": 1
+        },
+        "dateStart": "2021-12-08T08:00:00",
+        "dateEnd": "2021-12-08T08:02:22",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 09:00 Uhr (5. Sitzung, TOP Sitzungser\u00f6ffnung)"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532562\/7532562_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532562",
+            "duration": 142,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532562",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532562\/7532562_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"1.920\">Liebe G\u00e4ste! <\/span><span class=\"timebased\" data-start=\"1.920\" data-end=\"55.880\">Sehr verehrte Damen und Herren! <\/span><span class=\"timebased\" data-start=\"55.880\" data-end=\"118.400\">Liebe Kolleginnen und Kollegen! <\/span><span class=\"timebased\" data-start=\"118.400\" data-end=\"118.680\">Einen sch\u00f6nen guten Morgen! <\/span><span class=\"timebased\" data-start=\"118.680\" data-end=\"118.920\">Die Sitzung ist er\u00f6ffnet. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Liebe G\u00e4ste!",
+                                "timeStart": "1.000",
+                                "timeEnd": "1.920"
+                            },
+                            {
+                                "text": "Sehr verehrte Damen und Herren!",
+                                "timeStart": "1.920",
+                                "timeEnd": "55.880"
+                            },
+                            {
+                                "text": "Liebe Kolleginnen und Kollegen!",
+                                "timeStart": "55.880",
+                                "timeEnd": "118.400"
+                            },
+                            {
+                                "text": "Einen sch\u00f6nen guten Morgen!",
+                                "timeStart": "118.400",
+                                "timeEnd": "118.680"
+                            },
+                            {
+                                "text": "Die Sitzung ist er\u00f6ffnet.",
+                                "timeStart": "118.680",
+                                "timeEnd": "118.920"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"118.920\" data-end=\"120.640\">Ich begr\u00fc\u00dfe auf der Ehrentrib\u00fcne die gesch\u00e4ftsf\u00fchrende Bundeskanzlerin Frau Dr.\u00a0Angela Merkel. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich begr\u00fc\u00dfe auf der Ehrentrib\u00fcne die gesch\u00e4ftsf\u00fchrende Bundeskanzlerin Frau Dr.\u00a0Angela Merkel.",
+                                "timeStart": "118.920",
+                                "timeEnd": "120.640"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"120.640\" data-end=\"133.240\">Weiterhin begr\u00fc\u00dfe ich auch ehemalige Repr\u00e4sentantinnen und Repr\u00e4sentanten der Verfassungsorgane, seine Exzellenz den Apostolischen Nuntius und alle weiteren G\u00e4ste, die auf den Trib\u00fcnen Platz genommen haben. <\/span><span class=\"timebased\" data-start=\"133.240\" data-end=\"142.000\">Herzlich willkommen! <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Weiterhin begr\u00fc\u00dfe ich auch ehemalige Repr\u00e4sentantinnen und Repr\u00e4sentanten der Verfassungsorgane, seine Exzellenz den Apostolischen Nuntius und alle weiteren G\u00e4ste, die auf den Trib\u00fcnen Platz genommen haben.",
+                                "timeStart": "120.640",
+                                "timeEnd": "133.240"
+                            },
+                            {
+                                "text": "Herzlich willkommen!",
+                                "timeStart": "133.240",
+                                "timeEnd": "142.000"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"1.920\">Liebe G\u00e4ste! <\/span><span class=\"timebased\" data-start=\"1.920\" data-end=\"55.880\">Sehr verehrte Damen und Herren! <\/span><span class=\"timebased\" data-start=\"55.880\" data-end=\"118.400\">Liebe Kolleginnen und Kollegen! <\/span><span class=\"timebased\" data-start=\"118.400\" data-end=\"118.680\">Einen sch\u00f6nen guten Morgen! <\/span><span class=\"timebased\" data-start=\"118.680\" data-end=\"118.920\">Die Sitzung ist er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"1.920\">Liebe G\u00e4ste! <\/span><span class=\"timebased\" data-start=\"1.920\" data-end=\"55.880\">Sehr verehrte Damen und Herren! <\/span><span class=\"timebased\" data-start=\"55.880\" data-end=\"118.400\">Liebe Kolleginnen und Kollegen! <\/span><span class=\"timebased\" data-start=\"118.400\" data-end=\"118.680\">Einen sch\u00f6nen guten Morgen! <\/span><span class=\"timebased\" data-start=\"118.680\" data-end=\"118.920\">Die Sitzung ist er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"1.920\">Liebe G\u00e4ste! <\/span><span class=\"timebased\" data-start=\"1.920\" data-end=\"55.880\">Sehr verehrte Damen und Herren! <\/span><span class=\"timebased\" data-start=\"55.880\" data-end=\"118.400\">Liebe Kolleginnen und Kollegen! <\/span><span class=\"timebased\" data-start=\"118.400\" data-end=\"118.680\">Einen sch\u00f6nen guten Morgen! <\/span><span class=\"timebased\" data-start=\"118.680\" data-end=\"118.920\">Die Sitzung ist er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"1.920\">Liebe G\u00e4ste! <\/span><span class=\"timebased\" data-start=\"1.920\" data-end=\"55.880\">Sehr verehrte Damen und Herren! <\/span><span class=\"timebased\" data-start=\"55.880\" data-end=\"118.400\">Liebe Kolleginnen und Kollegen! <\/span><span class=\"timebased\" data-start=\"118.400\" data-end=\"118.680\">Einen sch\u00f6nen guten Morgen! <\/span><span class=\"timebased\" data-start=\"118.680\" data-end=\"118.920\">Die Sitzung ist er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"1.920\">Liebe G\u00e4ste! <\/span><span class=\"timebased\" data-start=\"1.920\" data-end=\"55.880\">Sehr verehrte Damen und Herren! <\/span><span class=\"timebased\" data-start=\"55.880\" data-end=\"118.400\">Liebe Kolleginnen und Kollegen! <\/span><span class=\"timebased\" data-start=\"118.400\" data-end=\"118.680\">Einen sch\u00f6nen guten Morgen! <\/span><span class=\"timebased\" data-start=\"118.680\" data-end=\"118.920\">Die Sitzung ist er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"118.920\" data-end=\"120.640\">Ich begr\u00fc\u00dfe auf der Ehrentrib\u00fcne die gesch\u00e4ftsf\u00fchrende Bundeskanzlerin Frau Dr.\u00a0Angela Merkel. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"120.640\" data-end=\"133.240\">Weiterhin begr\u00fc\u00dfe ich auch ehemalige Repr\u00e4sentantinnen und Repr\u00e4sentanten der Verfassungsorgane, seine Exzellenz den Apostolischen Nuntius und alle weiteren G\u00e4ste, die auf den Trib\u00fcnen Platz genommen haben. <\/span><span class=\"timebased\" data-start=\"133.240\" data-end=\"142.000\">Herzlich willkommen! <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"120.640\" data-end=\"133.240\">Weiterhin begr\u00fc\u00dfe ich auch ehemalige Repr\u00e4sentantinnen und Repr\u00e4sentanten der Verfassungsorgane, seine Exzellenz den Apostolischen Nuntius und alle weiteren G\u00e4ste, die auf den Trib\u00fcnen Platz genommen haben. <\/span><span class=\"timebased\" data-start=\"133.240\" data-end=\"142.000\">Herzlich willkommen! <\/span><\/p>"
+            }
+        ]
+    },
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Wahl des Bundeskanzlers",
+            "officialTitle": "Tagesordnungspunkt 2",
+            "speechIndex": 2
+        },
+        "dateStart": "2021-12-08T08:02:22",
+        "dateEnd": "2021-12-08T09:20:41",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 09:02 Uhr (5. Sitzung, TOP 2)"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532564\/7532564_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532564",
+            "duration": 4699,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532564",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532564\/7532564_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"8.880\">Damit rufe ich den Tagesordnungspunkt 2 auf: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Damit rufe ich den Tagesordnungspunkt 2 auf:",
+                                "timeStart": "1.000",
+                                "timeEnd": "8.880"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"8.880\" data-end=\"14.900\">Der Herr Bundespr\u00e4sident hat mir hierzu mitgeteilt: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Der Herr Bundespr\u00e4sident hat mir hierzu mitgeteilt:",
+                                "timeStart": "8.880",
+                                "timeEnd": "14.900"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"14.900\" data-end=\"49.060\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"49.060\" data-end=\"85.140\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"85.140\" data-end=\"140.000\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"140.000\" data-end=\"164.120\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"164.120\" data-end=\"204.600\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"204.600\" data-end=\"234.400\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren.",
+                                "timeStart": "14.900",
+                                "timeEnd": "49.060"
+                            },
+                            {
+                                "text": "Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt.",
+                                "timeStart": "49.060",
+                                "timeEnd": "85.140"
+                            },
+                            {
+                                "text": "Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt.",
+                                "timeStart": "85.140",
+                                "timeEnd": "140.000"
+                            },
+                            {
+                                "text": "F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby.",
+                                "timeStart": "140.000",
+                                "timeEnd": "164.120"
+                            },
+                            {
+                                "text": "Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten.",
+                                "timeStart": "164.120",
+                                "timeEnd": "204.600"
+                            },
+                            {
+                                "text": "Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt.",
+                                "timeStart": "204.600",
+                                "timeEnd": "234.400"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"234.400\" data-end=\"349.580\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"349.580\" data-end=\"369.040\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"369.040\" data-end=\"1751.900\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1751.900\" data-end=\"1764.920\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1764.920\" data-end=\"1781.660\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen.",
+                                "timeStart": "234.400",
+                                "timeEnd": "349.580"
+                            },
+                            {
+                                "text": "Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal.",
+                                "timeStart": "349.580",
+                                "timeEnd": "369.040"
+                            },
+                            {
+                                "text": "In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag.",
+                                "timeStart": "369.040",
+                                "timeEnd": "1751.900"
+                            },
+                            {
+                                "text": "Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen.",
+                                "timeStart": "1751.900",
+                                "timeEnd": "1764.920"
+                            },
+                            {
+                                "text": "Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine.",
+                                "timeStart": "1764.920",
+                                "timeEnd": "1781.660"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1781.660\" data-end=\"1794.140\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1794.140\" data-end=\"1826.420\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1826.420\" data-end=\"1857.600\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1857.600\" data-end=\"1898.240\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1900.520\" data-end=\"1916.440\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c.",
+                                "timeStart": "1781.660",
+                                "timeEnd": "1794.140"
+                            },
+                            {
+                                "text": "Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten.",
+                                "timeStart": "1794.140",
+                                "timeEnd": "1826.420"
+                            },
+                            {
+                                "text": "Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen.",
+                                "timeStart": "1826.420",
+                                "timeEnd": "1857.600"
+                            },
+                            {
+                                "text": "Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen.",
+                                "timeStart": "1857.600",
+                                "timeEnd": "1898.240"
+                            },
+                            {
+                                "text": "Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden.",
+                                "timeStart": "1900.520",
+                                "timeEnd": "1916.440"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1916.440\" data-end=\"1938.560\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1938.560\" data-end=\"1967.680\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1967.680\" data-end=\"1986.520\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen.",
+                                "timeStart": "1916.440",
+                                "timeEnd": "1938.560"
+                            },
+                            {
+                                "text": "Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben.",
+                                "timeStart": "1938.560",
+                                "timeEnd": "1967.680"
+                            },
+                            {
+                                "text": "Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden.",
+                                "timeStart": "1967.680",
+                                "timeEnd": "1986.520"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1988.920\" data-end=\"2026.200\">Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses. <\/span><span class=\"timebased\" data-start=\"2028.760\" data-end=\"2076.480\">F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses.",
+                                "timeStart": "1988.920",
+                                "timeEnd": "2026.200"
+                            },
+                            {
+                                "text": "F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen.",
+                                "timeStart": "2028.760",
+                                "timeEnd": "2076.480"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"2076.480\" data-end=\"2106.840\">Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen. <\/span><span class=\"timebased\" data-start=\"2106.840\" data-end=\"2140.360\">Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen.",
+                                "timeStart": "2076.480",
+                                "timeEnd": "2106.840"
+                            },
+                            {
+                                "text": "Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben.",
+                                "timeStart": "2106.840",
+                                "timeEnd": "2140.360"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"2140.360\" data-end=\"2154.940\">Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen? <\/span><span class=\"timebased\" data-start=\"2154.940\" data-end=\"2158.100\">\u2013 Das ist der Fall. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen?",
+                                "timeStart": "2140.360",
+                                "timeEnd": "2154.940"
+                            },
+                            {
+                                "text": "\u2013 Das ist der Fall.",
+                                "timeStart": "2154.940",
+                                "timeEnd": "2158.100"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"2158.100\" data-end=\"4460.100\">Ich er\u00f6ffne die Wahl und bitte, mit dem Aufruf der Namen zu beginnen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich er\u00f6ffne die Wahl und bitte, mit dem Aufruf der Namen zu beginnen.",
+                                "timeStart": "2158.100",
+                                "timeEnd": "4460.100"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4460.100\" data-end=\"4467.840\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"4467.840\" data-end=\"4501.880\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"4501.880\" data-end=\"4508.600\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"4508.600\" data-end=\"4523.720\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Meine Damen und Herren, der Namensaufruf ist beendet.",
+                                "timeStart": "4460.100",
+                                "timeEnd": "4467.840"
+                            },
+                            {
+                                "text": "Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben.",
+                                "timeStart": "4467.840",
+                                "timeEnd": "4501.880"
+                            },
+                            {
+                                "text": "\u2013 Ich h\u00f6re, dass das der Fall ist.",
+                                "timeStart": "4501.880",
+                                "timeEnd": "4508.600"
+                            },
+                            {
+                                "text": "Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen.",
+                                "timeStart": "4508.600",
+                                "timeEnd": "4523.720"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4523.720\" data-end=\"4611.500\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"4611.500\" data-end=\"4623.060\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"4623.060\" data-end=\"4632.160\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten.",
+                                "timeStart": "4523.720",
+                                "timeEnd": "4611.500"
+                            },
+                            {
+                                "text": "Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt.",
+                                "timeStart": "4611.500",
+                                "timeEnd": "4623.060"
+                            },
+                            {
+                                "text": "Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren.",
+                                "timeStart": "4623.060",
+                                "timeEnd": "4632.160"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4632.160\" data-end=\"4637.080\">Meine Damen und Herren, nehmen Sie bitte Platz. <\/span><span class=\"timebased\" data-start=\"4637.080\" data-end=\"4660.760\">Die unterbrochene Sitzung ist wieder er\u00f6ffnet. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Meine Damen und Herren, nehmen Sie bitte Platz.",
+                                "timeStart": "4632.160",
+                                "timeEnd": "4637.080"
+                            },
+                            {
+                                "text": "Die unterbrochene Sitzung ist wieder er\u00f6ffnet.",
+                                "timeStart": "4637.080",
+                                "timeEnd": "4660.760"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4660.760\" data-end=\"4664.800\">Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren. <\/span><span class=\"timebased\" data-start=\"4664.800\" data-end=\"4676.720\">Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret! <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren.",
+                                "timeStart": "4660.760",
+                                "timeEnd": "4664.800"
+                            },
+                            {
+                                "text": "Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret!",
+                                "timeStart": "4664.800",
+                                "timeEnd": "4676.720"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4676.720\" data-end=\"4678.720\">Aber freuen Sie sich nicht zu fr\u00fch, das gilt nur f\u00fcr heute. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Aber freuen Sie sich nicht zu fr\u00fch, das gilt nur f\u00fcr heute.",
+                                "timeStart": "4676.720",
+                                "timeEnd": "4678.720"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4678.720\" data-end=\"4679.640\">Ab morgen gelten wieder die strengen Regeln. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ab morgen gelten wieder die strengen Regeln.",
+                                "timeStart": "4678.720",
+                                "timeEnd": "4679.640"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4679.640\" data-end=\"4688.960\">Jetzt aber zum wichtigen Teil: Ich gebe das von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern ermittelte Ergebnis der Wahl bekannt: Mitgliederzahl 736, abgegebene Stimmen 707, ung\u00fcltige Stimmzettel 3. Mit Ja haben gestimmt 395 Abgeordnete. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Jetzt aber zum wichtigen Teil: Ich gebe das von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern ermittelte Ergebnis der Wahl bekannt: Mitgliederzahl 736, abgegebene Stimmen 707, ung\u00fcltige Stimmzettel 3. Mit Ja haben gestimmt 395 Abgeordnete.",
+                                "timeStart": "4679.640",
+                                "timeEnd": "4688.960"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4688.960\" data-end=\"4689.160\">\u2013 Vielen Dank. <\/span><span class=\"timebased\" data-start=\"4689.160\" data-end=\"4692.320\">Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "\u2013 Vielen Dank.",
+                                "timeStart": "4688.960",
+                                "timeEnd": "4689.160"
+                            },
+                            {
+                                "text": "Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben.",
+                                "timeStart": "4689.160",
+                                "timeEnd": "4692.320"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4692.320\" data-end=\"4695.440\">Mit Nein haben gestimmt 303 Abgeordnete, Enthaltungen 6. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Mit Nein haben gestimmt 303 Abgeordnete, Enthaltungen 6.",
+                                "timeStart": "4692.320",
+                                "timeEnd": "4695.440"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4695.440\" data-end=\"4696.920\">Jetzt kommt aber die alles entscheidende Frage. <\/span><span class=\"timebased\" data-start=\"4696.920\" data-end=\"4699.000\">Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an? <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Jetzt kommt aber die alles entscheidende Frage.",
+                                "timeStart": "4695.440",
+                                "timeEnd": "4696.920"
+                            },
+                            {
+                                "text": "Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an?",
+                                "timeStart": "4696.920",
+                                "timeEnd": "4699.000"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"8.880\">Damit rufe ich den Tagesordnungspunkt 2 auf: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"8.880\" data-end=\"14.900\">Der Herr Bundespr\u00e4sident hat mir hierzu mitgeteilt: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"14.900\" data-end=\"49.060\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"49.060\" data-end=\"85.140\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"85.140\" data-end=\"140.000\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"140.000\" data-end=\"164.120\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"164.120\" data-end=\"204.600\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"204.600\" data-end=\"234.400\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"14.900\" data-end=\"49.060\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"49.060\" data-end=\"85.140\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"85.140\" data-end=\"140.000\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"140.000\" data-end=\"164.120\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"164.120\" data-end=\"204.600\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"204.600\" data-end=\"234.400\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"14.900\" data-end=\"49.060\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"49.060\" data-end=\"85.140\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"85.140\" data-end=\"140.000\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"140.000\" data-end=\"164.120\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"164.120\" data-end=\"204.600\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"204.600\" data-end=\"234.400\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"14.900\" data-end=\"49.060\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"49.060\" data-end=\"85.140\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"85.140\" data-end=\"140.000\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"140.000\" data-end=\"164.120\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"164.120\" data-end=\"204.600\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"204.600\" data-end=\"234.400\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"14.900\" data-end=\"49.060\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"49.060\" data-end=\"85.140\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"85.140\" data-end=\"140.000\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"140.000\" data-end=\"164.120\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"164.120\" data-end=\"204.600\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"204.600\" data-end=\"234.400\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"14.900\" data-end=\"49.060\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"49.060\" data-end=\"85.140\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"85.140\" data-end=\"140.000\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"140.000\" data-end=\"164.120\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"164.120\" data-end=\"204.600\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"204.600\" data-end=\"234.400\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"234.400\" data-end=\"349.580\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"349.580\" data-end=\"369.040\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"369.040\" data-end=\"1751.900\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1751.900\" data-end=\"1764.920\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1764.920\" data-end=\"1781.660\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"234.400\" data-end=\"349.580\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"349.580\" data-end=\"369.040\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"369.040\" data-end=\"1751.900\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1751.900\" data-end=\"1764.920\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1764.920\" data-end=\"1781.660\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"234.400\" data-end=\"349.580\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"349.580\" data-end=\"369.040\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"369.040\" data-end=\"1751.900\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1751.900\" data-end=\"1764.920\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1764.920\" data-end=\"1781.660\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"234.400\" data-end=\"349.580\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"349.580\" data-end=\"369.040\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"369.040\" data-end=\"1751.900\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1751.900\" data-end=\"1764.920\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1764.920\" data-end=\"1781.660\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"234.400\" data-end=\"349.580\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"349.580\" data-end=\"369.040\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"369.040\" data-end=\"1751.900\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1751.900\" data-end=\"1764.920\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1764.920\" data-end=\"1781.660\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1781.660\" data-end=\"1794.140\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1794.140\" data-end=\"1826.420\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1826.420\" data-end=\"1857.600\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1857.600\" data-end=\"1898.240\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1900.520\" data-end=\"1916.440\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1781.660\" data-end=\"1794.140\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1794.140\" data-end=\"1826.420\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1826.420\" data-end=\"1857.600\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1857.600\" data-end=\"1898.240\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1900.520\" data-end=\"1916.440\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1781.660\" data-end=\"1794.140\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1794.140\" data-end=\"1826.420\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1826.420\" data-end=\"1857.600\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1857.600\" data-end=\"1898.240\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1900.520\" data-end=\"1916.440\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1781.660\" data-end=\"1794.140\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1794.140\" data-end=\"1826.420\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1826.420\" data-end=\"1857.600\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1857.600\" data-end=\"1898.240\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1900.520\" data-end=\"1916.440\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1781.660\" data-end=\"1794.140\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1794.140\" data-end=\"1826.420\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1826.420\" data-end=\"1857.600\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1857.600\" data-end=\"1898.240\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1900.520\" data-end=\"1916.440\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1916.440\" data-end=\"1938.560\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1938.560\" data-end=\"1967.680\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1967.680\" data-end=\"1986.520\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1916.440\" data-end=\"1938.560\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1938.560\" data-end=\"1967.680\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1967.680\" data-end=\"1986.520\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1916.440\" data-end=\"1938.560\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1938.560\" data-end=\"1967.680\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1967.680\" data-end=\"1986.520\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1988.920\" data-end=\"2026.200\">Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses. <\/span><span class=\"timebased\" data-start=\"2028.760\" data-end=\"2076.480\">F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1988.920\" data-end=\"2026.200\">Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses. <\/span><span class=\"timebased\" data-start=\"2028.760\" data-end=\"2076.480\">F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"2076.480\" data-end=\"2106.840\">Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen. <\/span><span class=\"timebased\" data-start=\"2106.840\" data-end=\"2140.360\">Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"2076.480\" data-end=\"2106.840\">Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen. <\/span><span class=\"timebased\" data-start=\"2106.840\" data-end=\"2140.360\">Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"2140.360\" data-end=\"2154.940\">Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen? <\/span><span class=\"timebased\" data-start=\"2154.940\" data-end=\"2158.100\">\u2013 Das ist der Fall. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"2140.360\" data-end=\"2154.940\">Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen? <\/span><span class=\"timebased\" data-start=\"2154.940\" data-end=\"2158.100\">\u2013 Das ist der Fall. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"2158.100\" data-end=\"4460.100\">Ich er\u00f6ffne die Wahl und bitte, mit dem Aufruf der Namen zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4460.100\" data-end=\"4467.840\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"4467.840\" data-end=\"4501.880\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"4501.880\" data-end=\"4508.600\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"4508.600\" data-end=\"4523.720\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4460.100\" data-end=\"4467.840\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"4467.840\" data-end=\"4501.880\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"4501.880\" data-end=\"4508.600\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"4508.600\" data-end=\"4523.720\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4460.100\" data-end=\"4467.840\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"4467.840\" data-end=\"4501.880\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"4501.880\" data-end=\"4508.600\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"4508.600\" data-end=\"4523.720\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4460.100\" data-end=\"4467.840\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"4467.840\" data-end=\"4501.880\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"4501.880\" data-end=\"4508.600\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"4508.600\" data-end=\"4523.720\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4523.720\" data-end=\"4611.500\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"4611.500\" data-end=\"4623.060\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"4623.060\" data-end=\"4632.160\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4523.720\" data-end=\"4611.500\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"4611.500\" data-end=\"4623.060\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"4623.060\" data-end=\"4632.160\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4523.720\" data-end=\"4611.500\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"4611.500\" data-end=\"4623.060\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"4623.060\" data-end=\"4632.160\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4632.160\" data-end=\"4637.080\">Meine Damen und Herren, nehmen Sie bitte Platz. <\/span><span class=\"timebased\" data-start=\"4637.080\" data-end=\"4660.760\">Die unterbrochene Sitzung ist wieder er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4632.160\" data-end=\"4637.080\">Meine Damen und Herren, nehmen Sie bitte Platz. <\/span><span class=\"timebased\" data-start=\"4637.080\" data-end=\"4660.760\">Die unterbrochene Sitzung ist wieder er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4660.760\" data-end=\"4664.800\">Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren. <\/span><span class=\"timebased\" data-start=\"4664.800\" data-end=\"4676.720\">Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret! <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4660.760\" data-end=\"4664.800\">Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren. <\/span><span class=\"timebased\" data-start=\"4664.800\" data-end=\"4676.720\">Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret! <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4676.720\" data-end=\"4678.720\">Aber freuen Sie sich nicht zu fr\u00fch, das gilt nur f\u00fcr heute. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4678.720\" data-end=\"4679.640\">Ab morgen gelten wieder die strengen Regeln. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4679.640\" data-end=\"4688.960\">Jetzt aber zum wichtigen Teil: Ich gebe das von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern ermittelte Ergebnis der Wahl bekannt: Mitgliederzahl 736, abgegebene Stimmen 707, ung\u00fcltige Stimmzettel 3. Mit Ja haben gestimmt 395 Abgeordnete. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4688.960\" data-end=\"4689.160\">\u2013 Vielen Dank. <\/span><span class=\"timebased\" data-start=\"4689.160\" data-end=\"4692.320\">Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4688.960\" data-end=\"4689.160\">\u2013 Vielen Dank. <\/span><span class=\"timebased\" data-start=\"4689.160\" data-end=\"4692.320\">Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4692.320\" data-end=\"4695.440\">Mit Nein haben gestimmt 303 Abgeordnete, Enthaltungen 6. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4695.440\" data-end=\"4696.920\">Jetzt kommt aber die alles entscheidende Frage. <\/span><span class=\"timebased\" data-start=\"4696.920\" data-end=\"4699.000\">Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an? <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4695.440\" data-end=\"4696.920\">Jetzt kommt aber die alles entscheidende Frage. <\/span><span class=\"timebased\" data-start=\"4696.920\" data-end=\"4699.000\">Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an? <\/span><\/p>"
+            }
+        ]
+    },
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Sitzungsunterbrechung",
+            "officialTitle": "TOP ",
+            "speechIndex": 3
+        },
+        "dateStart": "2021-12-08T09:20:41",
+        "dateEnd": "2021-12-08T11:01:06",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 10:20 Uhr (5. Sitzung, TOP )"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532567\/7532567_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532567",
+            "duration": 6025,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532567",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532567\/7532567_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"4.360\">Damit rufe ich den Tagesordnungspunkt 2 auf: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Damit rufe ich den Tagesordnungspunkt 2 auf:",
+                                "timeStart": "1.000",
+                                "timeEnd": "4.360"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4.360\" data-end=\"7.400\">Der Herr Bundespr\u00e4sident hat mir hierzu mitgeteilt: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Der Herr Bundespr\u00e4sident hat mir hierzu mitgeteilt:",
+                                "timeStart": "4.360",
+                                "timeEnd": "7.400"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.400\" data-end=\"13.000\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"13.000\" data-end=\"17.240\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"17.240\" data-end=\"303.800\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"303.800\" data-end=\"309.240\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"309.240\" data-end=\"814.020\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"814.020\" data-end=\"1259.240\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren.",
+                                "timeStart": "7.400",
+                                "timeEnd": "13.000"
+                            },
+                            {
+                                "text": "Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt.",
+                                "timeStart": "13.000",
+                                "timeEnd": "17.240"
+                            },
+                            {
+                                "text": "Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt.",
+                                "timeStart": "17.240",
+                                "timeEnd": "303.800"
+                            },
+                            {
+                                "text": "F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby.",
+                                "timeStart": "303.800",
+                                "timeEnd": "309.240"
+                            },
+                            {
+                                "text": "Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten.",
+                                "timeStart": "309.240",
+                                "timeEnd": "814.020"
+                            },
+                            {
+                                "text": "Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt.",
+                                "timeStart": "814.020",
+                                "timeEnd": "1259.240"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1261.360\" data-end=\"1296.620\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1296.620\" data-end=\"1300.280\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"1300.280\" data-end=\"1307.920\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1307.920\" data-end=\"1313.280\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1313.280\" data-end=\"1324.900\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen.",
+                                "timeStart": "1261.360",
+                                "timeEnd": "1296.620"
+                            },
+                            {
+                                "text": "Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal.",
+                                "timeStart": "1296.620",
+                                "timeEnd": "1300.280"
+                            },
+                            {
+                                "text": "In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag.",
+                                "timeStart": "1300.280",
+                                "timeEnd": "1307.920"
+                            },
+                            {
+                                "text": "Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen.",
+                                "timeStart": "1307.920",
+                                "timeEnd": "1313.280"
+                            },
+                            {
+                                "text": "Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine.",
+                                "timeStart": "1313.280",
+                                "timeEnd": "1324.900"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1324.900\" data-end=\"1334.640\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1337.800\" data-end=\"1352.740\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1352.740\" data-end=\"1357.960\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1357.960\" data-end=\"1366.320\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1366.320\" data-end=\"1370.060\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c.",
+                                "timeStart": "1324.900",
+                                "timeEnd": "1334.640"
+                            },
+                            {
+                                "text": "Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten.",
+                                "timeStart": "1337.800",
+                                "timeEnd": "1352.740"
+                            },
+                            {
+                                "text": "Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen.",
+                                "timeStart": "1352.740",
+                                "timeEnd": "1357.960"
+                            },
+                            {
+                                "text": "Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen.",
+                                "timeStart": "1357.960",
+                                "timeEnd": "1366.320"
+                            },
+                            {
+                                "text": "Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden.",
+                                "timeStart": "1366.320",
+                                "timeEnd": "1370.060"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1370.060\" data-end=\"1376.440\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1376.440\" data-end=\"1383.540\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1383.540\" data-end=\"1400.860\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen.",
+                                "timeStart": "1370.060",
+                                "timeEnd": "1376.440"
+                            },
+                            {
+                                "text": "Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben.",
+                                "timeStart": "1376.440",
+                                "timeEnd": "1383.540"
+                            },
+                            {
+                                "text": "Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden.",
+                                "timeStart": "1383.540",
+                                "timeEnd": "1400.860"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1400.860\" data-end=\"1591.660\">Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses. <\/span><span class=\"timebased\" data-start=\"2107.560\" data-end=\"3311.700\">F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses.",
+                                "timeStart": "1400.860",
+                                "timeEnd": "1591.660"
+                            },
+                            {
+                                "text": "F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen.",
+                                "timeStart": "2107.560",
+                                "timeEnd": "3311.700"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"3511.480\" data-end=\"4722.540\">Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen. <\/span><span class=\"timebased\" data-start=\"4818.720\" data-end=\"5550.020\">Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen.",
+                                "timeStart": "3511.480",
+                                "timeEnd": "4722.540"
+                            },
+                            {
+                                "text": "Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben.",
+                                "timeStart": "4818.720",
+                                "timeEnd": "5550.020"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"5554.720\" data-end=\"5563.120\">Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen? <\/span><span class=\"timebased\" data-start=\"5563.120\" data-end=\"5563.960\">\u2013 Das ist der Fall. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen?",
+                                "timeStart": "5554.720",
+                                "timeEnd": "5563.120"
+                            },
+                            {
+                                "text": "\u2013 Das ist der Fall.",
+                                "timeStart": "5563.120",
+                                "timeEnd": "5563.960"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"5563.960\" data-end=\"5973.600\">Ich er\u00f6ffne die Wahl und bitte, mit dem Aufruf der Namen zu beginnen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich er\u00f6ffne die Wahl und bitte, mit dem Aufruf der Namen zu beginnen.",
+                                "timeStart": "5563.960",
+                                "timeEnd": "5973.600"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"5973.600\" data-end=\"5975.800\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"5975.800\" data-end=\"5981.760\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"5981.760\" data-end=\"5983.200\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"5983.200\" data-end=\"5988.240\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Meine Damen und Herren, der Namensaufruf ist beendet.",
+                                "timeStart": "5973.600",
+                                "timeEnd": "5975.800"
+                            },
+                            {
+                                "text": "Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben.",
+                                "timeStart": "5975.800",
+                                "timeEnd": "5981.760"
+                            },
+                            {
+                                "text": "\u2013 Ich h\u00f6re, dass das der Fall ist.",
+                                "timeStart": "5981.760",
+                                "timeEnd": "5983.200"
+                            },
+                            {
+                                "text": "Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen.",
+                                "timeStart": "5983.200",
+                                "timeEnd": "5988.240"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"5988.240\" data-end=\"6022.640\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"6022.640\" data-end=\"6023.480\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten.",
+                                "timeStart": "5988.240",
+                                "timeEnd": "6022.640"
+                            },
+                            {
+                                "text": "Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt.",
+                                "timeStart": "6022.640",
+                                "timeEnd": "6023.480"
+                            },
+                            {
+                                "text": "Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren.",
+                                "timeStart": "6023.480",
+                                "timeEnd": "6023.480"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Meine Damen und Herren, nehmen Sie bitte Platz. <\/span><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Die unterbrochene Sitzung ist wieder er\u00f6ffnet. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Meine Damen und Herren, nehmen Sie bitte Platz.",
+                                "timeStart": "6023.480",
+                                "timeEnd": "6023.480"
+                            },
+                            {
+                                "text": "Die unterbrochene Sitzung ist wieder er\u00f6ffnet.",
+                                "timeStart": "6023.480",
+                                "timeEnd": "6023.480"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.720\">Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren. <\/span><span class=\"timebased\" data-start=\"6023.720\" data-end=\"6024.160\">Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret! <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren.",
+                                "timeStart": "6023.480",
+                                "timeEnd": "6023.720"
+                            },
+                            {
+                                "text": "Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret!",
+                                "timeStart": "6023.720",
+                                "timeEnd": "6024.160"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.160\" data-end=\"6024.240\">Aber freuen Sie sich nicht zu fr\u00fch, das gilt nur f\u00fcr heute. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Aber freuen Sie sich nicht zu fr\u00fch, das gilt nur f\u00fcr heute.",
+                                "timeStart": "6024.160",
+                                "timeEnd": "6024.240"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.240\" data-end=\"6024.320\">Ab morgen gelten wieder die strengen Regeln. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ab morgen gelten wieder die strengen Regeln.",
+                                "timeStart": "6024.240",
+                                "timeEnd": "6024.320"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.320\" data-end=\"6024.720\">Jetzt aber zum wichtigen Teil: Ich gebe das von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern ermittelte Ergebnis der Wahl bekannt: Mitgliederzahl 736, abgegebene Stimmen 707, ung\u00fcltige Stimmzettel 3. Mit Ja haben gestimmt 395 Abgeordnete. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Jetzt aber zum wichtigen Teil: Ich gebe das von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern ermittelte Ergebnis der Wahl bekannt: Mitgliederzahl 736, abgegebene Stimmen 707, ung\u00fcltige Stimmzettel 3. Mit Ja haben gestimmt 395 Abgeordnete.",
+                                "timeStart": "6024.320",
+                                "timeEnd": "6024.720"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.720\" data-end=\"6024.720\">\u2013 Vielen Dank. <\/span><span class=\"timebased\" data-start=\"6024.720\" data-end=\"6024.760\">Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "\u2013 Vielen Dank.",
+                                "timeStart": "6024.720",
+                                "timeEnd": "6024.720"
+                            },
+                            {
+                                "text": "Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben.",
+                                "timeStart": "6024.720",
+                                "timeEnd": "6024.760"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.760\">Mit Nein haben gestimmt 303 Abgeordnete, Enthaltungen 6. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Mit Nein haben gestimmt 303 Abgeordnete, Enthaltungen 6.",
+                                "timeStart": "6024.760",
+                                "timeEnd": "6024.760"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.760\">Jetzt kommt aber die alles entscheidende Frage. <\/span><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.960\">Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an? <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Jetzt kommt aber die alles entscheidende Frage.",
+                                "timeStart": "6024.760",
+                                "timeEnd": "6024.760"
+                            },
+                            {
+                                "text": "Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an?",
+                                "timeStart": "6024.760",
+                                "timeEnd": "6024.960"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"4.360\">Damit rufe ich den Tagesordnungspunkt 2 auf: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4.360\" data-end=\"7.400\">Der Herr Bundespr\u00e4sident hat mir hierzu mitgeteilt: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.400\" data-end=\"13.000\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"13.000\" data-end=\"17.240\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"17.240\" data-end=\"303.800\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"303.800\" data-end=\"309.240\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"309.240\" data-end=\"814.020\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"814.020\" data-end=\"1259.240\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.400\" data-end=\"13.000\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"13.000\" data-end=\"17.240\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"17.240\" data-end=\"303.800\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"303.800\" data-end=\"309.240\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"309.240\" data-end=\"814.020\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"814.020\" data-end=\"1259.240\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.400\" data-end=\"13.000\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"13.000\" data-end=\"17.240\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"17.240\" data-end=\"303.800\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"303.800\" data-end=\"309.240\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"309.240\" data-end=\"814.020\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"814.020\" data-end=\"1259.240\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.400\" data-end=\"13.000\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"13.000\" data-end=\"17.240\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"17.240\" data-end=\"303.800\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"303.800\" data-end=\"309.240\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"309.240\" data-end=\"814.020\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"814.020\" data-end=\"1259.240\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.400\" data-end=\"13.000\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"13.000\" data-end=\"17.240\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"17.240\" data-end=\"303.800\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"303.800\" data-end=\"309.240\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"309.240\" data-end=\"814.020\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"814.020\" data-end=\"1259.240\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.400\" data-end=\"13.000\">Ich bitte nun um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren. <\/span><span class=\"timebased\" data-start=\"13.000\" data-end=\"17.240\">Die Wahl findet mit verdeckten Stimmkarten, also geheim, statt. <\/span><span class=\"timebased\" data-start=\"17.240\" data-end=\"303.800\">Gew\u00e4hlt ist, wer die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 369 Stimmen, erh\u00e4lt. <\/span><span class=\"timebased\" data-start=\"303.800\" data-end=\"309.240\">F\u00fcr diese Wahl ben\u00f6tigen Sie Ihren blauen Wahlausweis aus Ihrem Stimmkartenfach in der Westlobby. <\/span><span class=\"timebased\" data-start=\"309.240\" data-end=\"814.020\">Die Abgeordneten auf den Trib\u00fcnen haben oder werden noch ihre Wahlausweise vom Plenarassistenzdienst erhalten. <\/span><span class=\"timebased\" data-start=\"814.020\" data-end=\"1259.240\">Bitte kontrollieren Sie, ob der Wahlausweis auch Ihren eigenen Namen tr\u00e4gt. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1261.360\" data-end=\"1296.620\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1296.620\" data-end=\"1300.280\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"1300.280\" data-end=\"1307.920\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1307.920\" data-end=\"1313.280\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1313.280\" data-end=\"1324.900\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1261.360\" data-end=\"1296.620\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1296.620\" data-end=\"1300.280\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"1300.280\" data-end=\"1307.920\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1307.920\" data-end=\"1313.280\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1313.280\" data-end=\"1324.900\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1261.360\" data-end=\"1296.620\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1296.620\" data-end=\"1300.280\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"1300.280\" data-end=\"1307.920\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1307.920\" data-end=\"1313.280\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1313.280\" data-end=\"1324.900\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1261.360\" data-end=\"1296.620\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1296.620\" data-end=\"1300.280\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"1300.280\" data-end=\"1307.920\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1307.920\" data-end=\"1313.280\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1313.280\" data-end=\"1324.900\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1261.360\" data-end=\"1296.620\">Die Abgeordneten hier unten im Plenarsaal werden in der Abgeordnetenlobby w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1296.620\" data-end=\"1300.280\">Gehen Sie zum W\u00e4hlen bitte erst nach Aufruf Ihres Namens, nicht alle auf einmal. <\/span><span class=\"timebased\" data-start=\"1300.280\" data-end=\"1307.920\">In der Abgeordnetenlobby erhalten Sie an den Ausgabetischen eine blaue Stimmkarte und auch den amtlichen Wahlumschlag. <\/span><span class=\"timebased\" data-start=\"1307.920\" data-end=\"1313.280\">Die Abgeordneten auf der Trib\u00fcne werden auf der Trib\u00fcnenebene w\u00e4hlen. <\/span><span class=\"timebased\" data-start=\"1313.280\" data-end=\"1324.900\">Dort befinden sich auch ein Ausgabetisch f\u00fcr die genannten Wahlunterlagen sowie eine Wahlkabine. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1324.900\" data-end=\"1334.640\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1337.800\" data-end=\"1352.740\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1352.740\" data-end=\"1357.960\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1357.960\" data-end=\"1366.320\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1366.320\" data-end=\"1370.060\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1324.900\" data-end=\"1334.640\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1337.800\" data-end=\"1352.740\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1352.740\" data-end=\"1357.960\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1357.960\" data-end=\"1366.320\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1366.320\" data-end=\"1370.060\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1324.900\" data-end=\"1334.640\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1337.800\" data-end=\"1352.740\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1352.740\" data-end=\"1357.960\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1357.960\" data-end=\"1366.320\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1366.320\" data-end=\"1370.060\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1324.900\" data-end=\"1334.640\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1337.800\" data-end=\"1352.740\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1352.740\" data-end=\"1357.960\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1357.960\" data-end=\"1366.320\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1366.320\" data-end=\"1370.060\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1324.900\" data-end=\"1334.640\">G\u00fcltig sind nur Stimmen mit einem Kreuz bei \u201eja\u201c, \u201enein\u201c oder \u201eenthalte mich\u201c. <\/span><span class=\"timebased\" data-start=\"1337.800\" data-end=\"1352.740\">Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, die mehr als ein Kreuz, kein Kreuz, andere Namen oder Zus\u00e4tze enthalten. <\/span><span class=\"timebased\" data-start=\"1352.740\" data-end=\"1357.960\">Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen, und Sie m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. <\/span><span class=\"timebased\" data-start=\"1357.960\" data-end=\"1366.320\">Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, jeden, der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zur\u00fcckzuweisen. <\/span><span class=\"timebased\" data-start=\"1366.320\" data-end=\"1370.060\">Die Stimmabgabe kann in diesem Fall jedoch vorschriftsm\u00e4\u00dfig wiederholt werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1370.060\" data-end=\"1376.440\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1376.440\" data-end=\"1383.540\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1383.540\" data-end=\"1400.860\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1370.060\" data-end=\"1376.440\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1376.440\" data-end=\"1383.540\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1383.540\" data-end=\"1400.860\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1370.060\" data-end=\"1376.440\">Nachdem Sie die Stimmkarte in einer der Wahlkabinen gekennzeichnet und dort in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen. <\/span><span class=\"timebased\" data-start=\"1376.440\" data-end=\"1383.540\">Bevor Sie den Wahlumschlag in eine der Wahlurnen werfen, m\u00fcssen Sie Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne \u00fcbergeben. <\/span><span class=\"timebased\" data-start=\"1383.540\" data-end=\"1400.860\">Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1400.860\" data-end=\"1591.660\">Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses. <\/span><span class=\"timebased\" data-start=\"2107.560\" data-end=\"3311.700\">F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"1400.860\" data-end=\"1591.660\">Das Fotografieren oder Filmen der ausgef\u00fcllten Stimmkarten stellt einen Versto\u00df gegen das Wahlgeheimnis dar und verletzt die Ordnung und W\u00fcrde des Hauses. <\/span><span class=\"timebased\" data-start=\"2107.560\" data-end=\"3311.700\">F\u00fcr den Fall, dass ich von solchen Verst\u00f6\u00dfen gegen das Wahlgeheimnis in dieser Sitzung oder auch sp\u00e4ter Kenntnis erhalte, behalte ich mir vor, Ordnungsma\u00dfnahmen zu ergreifen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"3511.480\" data-end=\"4722.540\">Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen. <\/span><span class=\"timebased\" data-start=\"4818.720\" data-end=\"5550.020\">Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"3511.480\" data-end=\"4722.540\">Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, die vorgesehenen Pl\u00e4tze einzunehmen. <\/span><span class=\"timebased\" data-start=\"4818.720\" data-end=\"5550.020\">Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach Aufruf Ihres Namens zur Entgegennahme der Stimmkarte und des Wahlumschlages zu den Ausgabetischen zu begeben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5554.720\" data-end=\"5563.120\">Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen? <\/span><span class=\"timebased\" data-start=\"5563.120\" data-end=\"5563.960\">\u2013 Das ist der Fall. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5554.720\" data-end=\"5563.120\">Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer ihre Pl\u00e4tze in der Abgeordnetenlobby eingenommen? <\/span><span class=\"timebased\" data-start=\"5563.120\" data-end=\"5563.960\">\u2013 Das ist der Fall. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5563.960\" data-end=\"5973.600\">Ich er\u00f6ffne die Wahl und bitte, mit dem Aufruf der Namen zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5973.600\" data-end=\"5975.800\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"5975.800\" data-end=\"5981.760\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"5981.760\" data-end=\"5983.200\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"5983.200\" data-end=\"5988.240\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5973.600\" data-end=\"5975.800\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"5975.800\" data-end=\"5981.760\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"5981.760\" data-end=\"5983.200\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"5983.200\" data-end=\"5988.240\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5973.600\" data-end=\"5975.800\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"5975.800\" data-end=\"5981.760\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"5981.760\" data-end=\"5983.200\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"5983.200\" data-end=\"5988.240\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5973.600\" data-end=\"5975.800\">Meine Damen und Herren, der Namensaufruf ist beendet. <\/span><span class=\"timebased\" data-start=\"5975.800\" data-end=\"5981.760\">Ich frage einmal, ob alle Mitglieder des Hauses\u00a0\u2013 auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer\u00a0\u2013 ihre Stimme abgegeben haben. <\/span><span class=\"timebased\" data-start=\"5981.760\" data-end=\"5983.200\">\u2013 Ich h\u00f6re, dass das der Fall ist. <\/span><span class=\"timebased\" data-start=\"5983.200\" data-end=\"5988.240\">Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, mit der Ausz\u00e4hlung zu beginnen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5988.240\" data-end=\"6022.640\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"6022.640\" data-end=\"6023.480\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5988.240\" data-end=\"6022.640\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"6022.640\" data-end=\"6023.480\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5988.240\" data-end=\"6022.640\">Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. <\/span><span class=\"timebased\" data-start=\"6022.640\" data-end=\"6023.480\">Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt. <\/span><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Und: W\u00e4hrend der Sitzungsunterbrechung d\u00fcrfen Sie auch fotografieren. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Meine Damen und Herren, nehmen Sie bitte Platz. <\/span><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Die unterbrochene Sitzung ist wieder er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Meine Damen und Herren, nehmen Sie bitte Platz. <\/span><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.480\">Die unterbrochene Sitzung ist wieder er\u00f6ffnet. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.720\">Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren. <\/span><span class=\"timebased\" data-start=\"6023.720\" data-end=\"6024.160\">Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret! <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6023.480\" data-end=\"6023.720\">Vielleicht ein paar Vorbemerkungen noch, bevor ich das Ergebnis der Wahl bekannt gebe: Normalerweise ist es hier im Saal w\u00e4hrend einer laufenden Sitzung nicht erlaubt, zu fotografieren. <\/span><span class=\"timebased\" data-start=\"6023.720\" data-end=\"6024.160\">Heute ist aber ein besonderer Tag, und damit ich nicht 736 Ordnungsrufe erteilen muss, erlaube ich f\u00fcr diesen Tag allen Abgeordneten, zu fotografieren\u00a0\u2013 aber bitte diskret! <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.160\" data-end=\"6024.240\">Aber freuen Sie sich nicht zu fr\u00fch, das gilt nur f\u00fcr heute. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.240\" data-end=\"6024.320\">Ab morgen gelten wieder die strengen Regeln. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.320\" data-end=\"6024.720\">Jetzt aber zum wichtigen Teil: Ich gebe das von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern ermittelte Ergebnis der Wahl bekannt: Mitgliederzahl 736, abgegebene Stimmen 707, ung\u00fcltige Stimmzettel 3. Mit Ja haben gestimmt 395 Abgeordnete. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.720\" data-end=\"6024.720\">\u2013 Vielen Dank. <\/span><span class=\"timebased\" data-start=\"6024.720\" data-end=\"6024.760\">Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.720\" data-end=\"6024.720\">\u2013 Vielen Dank. <\/span><span class=\"timebased\" data-start=\"6024.720\" data-end=\"6024.760\">Wir k\u00f6nnen das gleich weitermachen, aber ich wollte noch die anderen Stimmzahlen bekannt geben. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.760\">Mit Nein haben gestimmt 303 Abgeordnete, Enthaltungen 6. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.760\">Jetzt kommt aber die alles entscheidende Frage. <\/span><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.960\">Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an? <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.760\">Jetzt kommt aber die alles entscheidende Frage. <\/span><span class=\"timebased\" data-start=\"6024.760\" data-end=\"6024.960\">Ich frage Sie, Herr Abgeordneter Scholz: Nehmen Sie die Wahl an? <\/span><\/p>"
+            }
+        ]
+    },
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Eidesleistung des Bundeskanzlers",
+            "officialTitle": "Tagesordnungspunkt 3",
+            "speechIndex": 4
+        },
+        "dateStart": "2021-12-08T11:01:06",
+        "dateEnd": "2021-12-08T11:03:50",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 12:01 Uhr (5. Sitzung, TOP 3)"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532568\/7532568_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532568",
+            "duration": 164,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532568",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532568\/7532568_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"9.060\">Ich rufe den Tagesordnungspunkt 3 auf: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich rufe den Tagesordnungspunkt 3 auf:",
+                                "timeStart": "1.000",
+                                "timeEnd": "9.060"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"9.060\" data-end=\"19.540\">Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt:",
+                                "timeStart": "9.060",
+                                "timeEnd": "19.540"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"19.540\" data-end=\"71.800\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leistet der Bundeskanzler bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leistet der Bundeskanzler bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid.",
+                                "timeStart": "19.540",
+                                "timeEnd": "71.800"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"71.800\" data-end=\"135.540\">Herr Bundeskanzler, ich bitte Sie, zur Eidesleistung zu mir zu kommen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Herr Bundeskanzler, ich bitte Sie, zur Eidesleistung zu mir zu kommen.",
+                                "timeStart": "71.800",
+                                "timeEnd": "135.540"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"135.540\" data-end=\"153.040\">Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden. <\/span><span class=\"timebased\" data-start=\"153.040\" data-end=\"164.000\">Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden.",
+                                "timeStart": "135.540",
+                                "timeEnd": "153.040"
+                            },
+                            {
+                                "text": "Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen.",
+                                "timeStart": "153.040",
+                                "timeEnd": "164.000"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"9.060\">Ich rufe den Tagesordnungspunkt 3 auf: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"9.060\" data-end=\"19.540\">Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"19.540\" data-end=\"71.800\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leistet der Bundeskanzler bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"71.800\" data-end=\"135.540\">Herr Bundeskanzler, ich bitte Sie, zur Eidesleistung zu mir zu kommen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"135.540\" data-end=\"153.040\">Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden. <\/span><span class=\"timebased\" data-start=\"153.040\" data-end=\"164.000\">Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"135.540\" data-end=\"153.040\">Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden. <\/span><span class=\"timebased\" data-start=\"153.040\" data-end=\"164.000\">Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen. <\/span><\/p>"
+            }
+        ]
+    },
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Sitzungsunterbrechung",
+            "officialTitle": "TOP ",
+            "speechIndex": 5
+        },
+        "dateStart": "2021-12-08T11:03:50",
+        "dateEnd": "2021-12-08T12:38:50",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 12:03 Uhr (5. Sitzung, TOP )"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532571\/7532571_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532571",
+            "duration": 5700,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532571",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532571\/7532571_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"225.720\">Ich rufe den Tagesordnungspunkt 3 auf: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich rufe den Tagesordnungspunkt 3 auf:",
+                                "timeStart": "1.000",
+                                "timeEnd": "225.720"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"225.720\" data-end=\"230.760\">Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt:",
+                                "timeStart": "225.720",
+                                "timeEnd": "230.760"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"230.760\" data-end=\"4670.000\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leistet der Bundeskanzler bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leistet der Bundeskanzler bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid.",
+                                "timeStart": "230.760",
+                                "timeEnd": "4670.000"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"4670.000\" data-end=\"5631.660\">Herr Bundeskanzler, ich bitte Sie, zur Eidesleistung zu mir zu kommen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Herr Bundeskanzler, ich bitte Sie, zur Eidesleistung zu mir zu kommen.",
+                                "timeStart": "4670.000",
+                                "timeEnd": "5631.660"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"5695.240\" data-end=\"5697.120\">Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden. <\/span><span class=\"timebased\" data-start=\"5697.120\" data-end=\"5700.000\">Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden.",
+                                "timeStart": "5695.240",
+                                "timeEnd": "5697.120"
+                            },
+                            {
+                                "text": "Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen.",
+                                "timeStart": "5697.120",
+                                "timeEnd": "5700.000"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"225.720\">Ich rufe den Tagesordnungspunkt 3 auf: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"225.720\" data-end=\"230.760\">Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"230.760\" data-end=\"4670.000\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leistet der Bundeskanzler bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"4670.000\" data-end=\"5631.660\">Herr Bundeskanzler, ich bitte Sie, zur Eidesleistung zu mir zu kommen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5695.240\" data-end=\"5697.120\">Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden. <\/span><span class=\"timebased\" data-start=\"5697.120\" data-end=\"5700.000\">Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"5695.240\" data-end=\"5697.120\">Herr Bundeskanzler, ich halte die Urschrift des Grundgesetzes in meinen H\u00e4nden. <\/span><span class=\"timebased\" data-start=\"5697.120\" data-end=\"5700.000\">Ich bitte Sie, die in Artikel\u00a056 vorgeschriebene Eidesformel zu sprechen. <\/span><\/p>"
+            }
+        ]
+    },
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Bekanntgabe der Bildung der Bundesregierung",
+            "officialTitle": "Tagesordnungspunkt 4",
+            "speechIndex": 6
+        },
+        "dateStart": "2021-12-08T12:38:50",
+        "dateEnd": "2021-12-08T12:44:15",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 13:38 Uhr (5. Sitzung, TOP 4)"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532573\/7532573_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532573",
+            "duration": 325,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532573",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532573\/7532573_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"19.780\">Ich rufe auf den Tagesordnungspunkt 4: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich rufe auf den Tagesordnungspunkt 4:",
+                                "timeStart": "1.000",
+                                "timeEnd": "19.780"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"19.780\" data-end=\"324.960\">Der Herr Bundespr\u00e4sident hat mir hierzu mit Schreiben vom heutigen Tag mitgeteilt: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Der Herr Bundespr\u00e4sident hat mir hierzu mit Schreiben vom heutigen Tag mitgeteilt:",
+                                "timeStart": "19.780",
+                                "timeEnd": "324.960"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"19.780\">Ich rufe auf den Tagesordnungspunkt 4: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"19.780\" data-end=\"324.960\">Der Herr Bundespr\u00e4sident hat mir hierzu mit Schreiben vom heutigen Tag mitgeteilt: <\/span><\/p>"
+            }
+        ]
+    },
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Eidesleistung der Bundesministerinnen und Bundesminister",
+            "officialTitle": "Tagesordnungspunkt 5",
+            "speechIndex": 7
+        },
+        "dateStart": "2021-12-08T12:44:15",
+        "dateEnd": "2021-12-08T12:51:44",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 13:44 Uhr (5. Sitzung, TOP 5)"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532576\/7532576_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532576",
+            "duration": 449,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532576",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532576\/7532576_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"7.940\">Ich rufe auf den Tagesordnungspunkt 5: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich rufe auf den Tagesordnungspunkt 5:",
+                                "timeStart": "1.000",
+                                "timeEnd": "7.940"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.940\" data-end=\"48.020\">Meine Damen und Herren, nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister\u00a0\u2013\u00a0\u2013 <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Meine Damen und Herren, nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister\u00a0\u2013\u00a0\u2013",
+                                "timeStart": "7.940",
+                                "timeEnd": "48.020"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"48.020\" data-end=\"107.760\">\u2013 Sie k\u00f6nnen sich mit Ihrer Bewegungs\u00fcbung noch kurz zur\u00fcckhalten. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "\u2013 Sie k\u00f6nnen sich mit Ihrer Bewegungs\u00fcbung noch kurz zur\u00fcckhalten.",
+                                "timeStart": "48.020",
+                                "timeEnd": "107.760"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"107.760\" data-end=\"230.920\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid.",
+                                "timeStart": "107.760",
+                                "timeEnd": "230.920"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"230.920\" data-end=\"343.160\">Ich werde den Eid jetzt vorsprechen und bitte dann die Mitglieder der Bundesregierung, einzeln zum Mikrofon zu kommen und den Eid mit den Worten \u201eIch schw\u00f6re es, so wahr mir Gott helfe\u201c oder \u201eIch schw\u00f6re es\u201c zu bekr\u00e4ftigen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich werde den Eid jetzt vorsprechen und bitte dann die Mitglieder der Bundesregierung, einzeln zum Mikrofon zu kommen und den Eid mit den Worten \u201eIch schw\u00f6re es, so wahr mir Gott helfe\u201c oder \u201eIch schw\u00f6re es\u201c zu bekr\u00e4ftigen.",
+                                "timeStart": "230.920",
+                                "timeEnd": "343.160"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"343.160\" data-end=\"360.380\">Der Eid lautet: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Der Eid lautet:",
+                                "timeStart": "343.160",
+                                "timeEnd": "360.380"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"360.380\" data-end=\"395.680\">Ich darf jetzt die Bundesministerinnen und Bundesminister zur Bekr\u00e4ftigung des Eides zu mir bitten. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich darf jetzt die Bundesministerinnen und Bundesminister zur Bekr\u00e4ftigung des Eides zu mir bitten.",
+                                "timeStart": "360.380",
+                                "timeEnd": "395.680"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"395.680\" data-end=\"449.000\">Dr.\u00a0Robert Habeck , Bundesminister f\u00fcr Wirtschaft und Klimaschutz. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Dr.\u00a0Robert Habeck , Bundesminister f\u00fcr Wirtschaft und Klimaschutz.",
+                                "timeStart": "395.680",
+                                "timeEnd": "449.000"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"7.940\">Ich rufe auf den Tagesordnungspunkt 5: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"7.940\" data-end=\"48.020\">Meine Damen und Herren, nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister\u00a0\u2013\u00a0\u2013 <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"48.020\" data-end=\"107.760\">\u2013 Sie k\u00f6nnen sich mit Ihrer Bewegungs\u00fcbung noch kurz zur\u00fcckhalten. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"107.760\" data-end=\"230.920\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"230.920\" data-end=\"343.160\">Ich werde den Eid jetzt vorsprechen und bitte dann die Mitglieder der Bundesregierung, einzeln zum Mikrofon zu kommen und den Eid mit den Worten \u201eIch schw\u00f6re es, so wahr mir Gott helfe\u201c oder \u201eIch schw\u00f6re es\u201c zu bekr\u00e4ftigen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"343.160\" data-end=\"360.380\">Der Eid lautet: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"360.380\" data-end=\"395.680\">Ich darf jetzt die Bundesministerinnen und Bundesminister zur Bekr\u00e4ftigung des Eides zu mir bitten. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"395.680\" data-end=\"449.000\">Dr.\u00a0Robert Habeck , Bundesminister f\u00fcr Wirtschaft und Klimaschutz. <\/span><\/p>"
+            }
+        ]
+    },
+    {
+        "parliament": "DE",
+        "electoralPeriod": {
+            "number": 20
+        },
+        "session": {
+            "number": 5
+        },
+        "agendaItem": {
+            "title": "Sitzungsende",
+            "officialTitle": "Sitzungsende",
+            "speechIndex": 8
+        },
+        "dateStart": "2021-12-08T12:51:44",
+        "dateEnd": "2021-12-08T12:52:38",
+        "debug": {
+            "originalTitle": "Redebeitrag von B\u00e4rbel Bas (Bundestagspr\u00e4sidentin\/SPD) am 08.12.2021 um 13:51 Uhr (5. Sitzung, TOP Sitzungsende)"
+        },
+        "media": {
+            "videoFileURI": "https:\/\/cldf-od.r53.cdn.tv1.eu\/1000153copo\/ondemand\/app144277506\/145293313\/7532577\/7532577_h264_720_400_2000kb_baseline_de_2192.mp4",
+            "sourcePage": "http:\/\/dbtg.tv\/fvid\/7532577",
+            "duration": 54,
+            "creator": "Deutscher Bundestag",
+            "license": "&lt;a href=&quot;https:\/\/www.bundestag.de\/nutzungsbedingungen&quot; target=&quot;_blank&quot;&gt;Nutzungsbedingungen&lt;\/a&gt;",
+            "originMediaID": "7532577",
+            "audioFileURI": "https:\/\/static.p.core.cdn.streamfarm.net\/1000153copo\/ondemand\/145293313\/7532577\/7532577_mp3_128kb_stereo_de_128.mp3",
+            "aligned": 1
+        },
+        "people": [
+            {
+                "label": "B\u00e4rbel Bas",
+                "faction": "SPD",
+                "context": "main-speaker",
+                "role": "Bundestagspr\u00e4sidentin"
+            }
+        ],
+        "textContents": [
+            {
+                "type": "proceedings",
+                "sourceURI": "data\/proceedings",
+                "creator": "Deutscher Bundestag",
+                "license": "Public Domain",
+                "language": "DE-de",
+                "originTextID": "0722-7980",
+                "textBody": [
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"2.760\">Ich rufe auf den Tagesordnungspunkt 5: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich rufe auf den Tagesordnungspunkt 5:",
+                                "timeStart": "1.000",
+                                "timeEnd": "2.760"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"2.760\" data-end=\"6.640\">Meine Damen und Herren, nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister\u00a0\u2013\u00a0\u2013 <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Meine Damen und Herren, nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister\u00a0\u2013\u00a0\u2013",
+                                "timeStart": "2.760",
+                                "timeEnd": "6.640"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"6.640\" data-end=\"8.360\">\u2013 Sie k\u00f6nnen sich mit Ihrer Bewegungs\u00fcbung noch kurz zur\u00fcckhalten. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "\u2013 Sie k\u00f6nnen sich mit Ihrer Bewegungs\u00fcbung noch kurz zur\u00fcckhalten.",
+                                "timeStart": "6.640",
+                                "timeEnd": "8.360"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"8.360\" data-end=\"16.380\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid.",
+                                "timeStart": "8.360",
+                                "timeEnd": "16.380"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"16.380\" data-end=\"29.440\">Ich werde den Eid jetzt vorsprechen und bitte dann die Mitglieder der Bundesregierung, einzeln zum Mikrofon zu kommen und den Eid mit den Worten \u201eIch schw\u00f6re es, so wahr mir Gott helfe\u201c oder \u201eIch schw\u00f6re es\u201c zu bekr\u00e4ftigen. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich werde den Eid jetzt vorsprechen und bitte dann die Mitglieder der Bundesregierung, einzeln zum Mikrofon zu kommen und den Eid mit den Worten \u201eIch schw\u00f6re es, so wahr mir Gott helfe\u201c oder \u201eIch schw\u00f6re es\u201c zu bekr\u00e4ftigen.",
+                                "timeStart": "16.380",
+                                "timeEnd": "29.440"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"29.440\" data-end=\"30.240\">Der Eid lautet: <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Der Eid lautet:",
+                                "timeStart": "29.440",
+                                "timeEnd": "30.240"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"30.240\" data-end=\"44.880\">Ich darf jetzt die Bundesministerinnen und Bundesminister zur Bekr\u00e4ftigung des Eides zu mir bitten. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Ich darf jetzt die Bundesministerinnen und Bundesminister zur Bekr\u00e4ftigung des Eides zu mir bitten.",
+                                "timeStart": "30.240",
+                                "timeEnd": "44.880"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "speech",
+                        "speaker": "B\u00e4rbel Bas",
+                        "speakerstatus": "president",
+                        "text": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"46.920\" data-end=\"54.000\">Dr.\u00a0Robert Habeck , Bundesminister f\u00fcr Wirtschaft und Klimaschutz. <\/span><\/p>",
+                        "sentences": [
+                            {
+                                "text": "Dr.\u00a0Robert Habeck , Bundesminister f\u00fcr Wirtschaft und Klimaschutz.",
+                                "timeStart": "46.920",
+                                "timeEnd": "54.000"
+                            }
+                        ]
+                    }
+                ],
+                "textHTML": "<p data-type=\"speech\"><span class=\"timebased\" data-start=\"1.000\" data-end=\"2.760\">Ich rufe auf den Tagesordnungspunkt 5: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"2.760\" data-end=\"6.640\">Meine Damen und Herren, nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister\u00a0\u2013\u00a0\u2013 <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"6.640\" data-end=\"8.360\">\u2013 Sie k\u00f6nnen sich mit Ihrer Bewegungs\u00fcbung noch kurz zur\u00fcckhalten. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"8.360\" data-end=\"16.380\">Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"16.380\" data-end=\"29.440\">Ich werde den Eid jetzt vorsprechen und bitte dann die Mitglieder der Bundesregierung, einzeln zum Mikrofon zu kommen und den Eid mit den Worten \u201eIch schw\u00f6re es, so wahr mir Gott helfe\u201c oder \u201eIch schw\u00f6re es\u201c zu bekr\u00e4ftigen. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"29.440\" data-end=\"30.240\">Der Eid lautet: <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"30.240\" data-end=\"44.880\">Ich darf jetzt die Bundesministerinnen und Bundesminister zur Bekr\u00e4ftigung des Eides zu mir bitten. <\/span><\/p><p data-type=\"speech\"><span class=\"timebased\" data-start=\"46.920\" data-end=\"54.000\">Dr.\u00a0Robert Habeck , Bundesminister f\u00fcr Wirtschaft und Klimaschutz. <\/span><\/p>"
+            }
+        ]
+    }
+]
