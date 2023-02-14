@@ -395,7 +395,7 @@
               "type": "speech",
               "speaker": "Sebastian Hartmann",
               "speakerstatus": "main-speaker",
-              "text": "Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Lorem Ipsum dolor sit amet Wir alle stehen sicherlich unter dem Eindruck der sehr bewegenden, sehr würdigen Gedenkveranstaltung, die gerade eben hier im Plenum stattgefunden hat. Trotzdem möchte ich sagen, dass wir jetzt zu einem anderen inhaltlichen Thema überleiten, dem Wahlrecht. Danke aber noch mal an das Präsidium für die Ausrichtung dieser Gedenkveranstaltung!",
+              "text": "Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wir alle stehen sicherlich unter dem Eindruck der sehr bewegenden, sehr würdigen Gedenkveranstaltung, die gerade eben hier im Plenum stattgefunden hat. Trotzdem möchte ich sagen, dass wir jetzt zu einem anderen inhaltlichen Thema überleiten, dem Wahlrecht. Danke aber noch mal an das Präsidium für die Ausrichtung dieser Gedenkveranstaltung!",
               "sentences": [
                 {
                   "text": "Sehr geehrte Frau Präsidentin!",
@@ -408,7 +408,7 @@
                   "timeEnd": "5.520"
                 },
                 {
-                  "text": "Lorem Ipsum dolor sit amet Wir alle stehen sicherlich unter dem Eindruck der sehr bewegenden, sehr würdigen Gedenkveranstaltung, die gerade eben hier im Plenum stattgefunden hat.",
+                  "text": "Wir alle stehen sicherlich unter dem Eindruck der sehr bewegenden, sehr würdigen Gedenkveranstaltung, die gerade eben hier im Plenum stattgefunden hat.",
                   "timeStart": "5.520",
                   "timeEnd": "16.420"
                 },
